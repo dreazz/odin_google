@@ -1,0 +1,39 @@
+.nav{
+	width: 90% ;
+	height: 5rem;
+	margin: 2px auto;
+}
+
+.nav li{
+	display:inline-block;
+	float:right;
+	margin:1rem;
+}
+.image{
+	width: 25%;
+
+margin: 0rem auto;
+}
+.image img{
+	width:80%;
+}
+
+.form{
+	width:50%;
+	margin:0rem auto;
+}
+input{
+	width:80%;
+
+}
+
+a:link{
+	text-decoration-line: none;
+}
+a:visited {
+
+    color: black;
+ 
+    
+
+}
